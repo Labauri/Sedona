@@ -1,2 +1,2 @@
-# Sedona-st
+# Sedona
 My first project.
