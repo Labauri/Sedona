@@ -1,7 +1,11 @@
-# Личный проект «Седона»
-
-
-* Студент: [Артем Лабаури](https://htmlacademy.ru/profile/id1559805).
-* Наставник: `Микаэль Магтесян`.
+# Personal project «Sedona»
 
 * My first project: https://labauri.github.io/Sedona/ 
+
+## Description
+
+* The project implemented the layout of the Sedona website, the design and layout was provided by HTML Academy.
+
+## Technologies used
+
+* 'HTML5' and 'CSS3'
