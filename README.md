@@ -1,6 +1,6 @@
 # Personal project «Sedona»
 
-* My first project: https://labauri.github.io/Sedona/ 
+* Project: `https://labauri.github.io/Sedona/` 
 
 ## Description
 
